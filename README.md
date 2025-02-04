@@ -1,2 +1,2 @@
 # hng-color-app
- HNG stage 1 task
+ HNG internship stage 1 task
